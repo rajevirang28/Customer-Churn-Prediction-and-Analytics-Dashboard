@@ -1,11 +1,14 @@
 # Customer Churn Prediction and Analytics Dashboard
 
+---
+
 ## Overview
 
 Customer churn is one of the biggest challenges faced by subscription-based businesses. Understanding why customers leave and identifying high-risk customers can help organizations improve retention and maximize revenue.
 
 This project performs an end-to-end analysis of customer churn using Python, Machine Learning, and Power BI. It includes data cleaning, exploratory data analysis (EDA), predictive modeling, and interactive dashboard visualization to generate actionable business insights.
 
+---
 
 ## Project Objectives
 
@@ -15,6 +18,7 @@ This project performs an end-to-end analysis of customer churn using Python, Mac
 * Visualize key metrics through an interactive Power BI dashboard.
 * Provide data-driven recommendations to improve customer retention.
 
+---
 
 ## Technologies Used
 
@@ -42,6 +46,7 @@ This project performs an end-to-end analysis of customer churn using Python, Mac
 * Git
 * GitHub
 
+---
 
 ## Dataset
 
@@ -67,6 +72,7 @@ MonthlyCharges – Monthly amount charged to the customer.
 TotalCharges – Total amount charged to the customer over their tenure.
 Churn – Target variable indicating whether the customer left the company (Yes/No).
 
+---
 
 ## Project Workflow
 
@@ -114,6 +120,7 @@ Churn – Target variable indicating whether the customer left the company (Yes/
 * Customer Segmentation
 * Churn Risk Analysis
 
+---
 
 ## Machine Learning Models
 
@@ -133,6 +140,7 @@ Used for improved predictive performance and feature importance analysis.
 * F1 Score
 * ROC-AUC Score
 
+---
 
 ## Dashboard Features
 
@@ -160,6 +168,7 @@ Used for improved predictive performance and feature importance analysis.
 * Payment Method
 * Senior Citizen Status
 
+---
 
 ## Dashboard Preview
 
@@ -169,6 +178,8 @@ Add screenshots of your Power BI dashboard here.
 ![Dashboard Preview](images/dashboard_preview.png)
 ```
 
+---
+
 ## Key Insights
 
 * Customers with month-to-month contracts exhibit significantly higher churn rates.
@@ -177,6 +188,7 @@ Add screenshots of your Power BI dashboard here.
 * Electronic check payment users demonstrate higher churn behavior.
 * Long-term contracts improve customer retention.
 
+---
 
 ## Business Recommendations
 
@@ -196,6 +208,7 @@ Add screenshots of your Power BI dashboard here.
 * Automated Power BI refresh pipeline.
 * Deployment using Streamlit or Flask.
 
+---
 
 ## Installation
 
@@ -236,17 +249,18 @@ jupyter notebook
 
 *Actual values may differ depending on preprocessing and model parameters.*
 
+---
 
 ## Project Highlights
 
-✔ End-to-End Data Analytics Project
+End-to-End Data Analytics Project
 
-✔ Machine Learning-Based Churn Prediction
+Machine Learning-Based Churn Prediction
 
-✔ Interactive Power BI Dashboard
+Interactive Power BI Dashboard
 
-✔ Business Intelligence & Reporting
+Business Intelligence & Reporting
 
-✔ Real-World Telecom Customer Dataset
+Real-World Telecom Customer Dataset
 
-✔ Portfolio-Ready Data Science Project
+Portfolio-Ready Data Science Project
