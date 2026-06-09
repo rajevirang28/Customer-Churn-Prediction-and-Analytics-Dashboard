@@ -210,34 +210,6 @@ Add screenshots of your Power BI dashboard here.
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/Customer-Churn-Prediction-and-Analytics-Dashboard.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd Customer-Churn-Prediction-and-Analytics-Dashboard
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the notebook:
-
-```bash
-jupyter notebook
-```
-
----
-
 ## Results
 
 | Metric    | Score           |
