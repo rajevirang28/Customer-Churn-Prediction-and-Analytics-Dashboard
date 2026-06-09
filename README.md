@@ -247,8 +247,6 @@ jupyter notebook
 | Recall    | Varies by model |
 | F1 Score  | Varies by model |
 
-*Actual values may differ depending on preprocessing and model parameters.*
-
 ---
 
 ## Project Highlights
