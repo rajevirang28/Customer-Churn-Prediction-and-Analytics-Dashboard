@@ -262,5 +262,3 @@ Interactive Power BI Dashboard
 Business Intelligence & Reporting
 
 Real-World Telecom Customer Dataset
-
-Portfolio-Ready Data Science Project
